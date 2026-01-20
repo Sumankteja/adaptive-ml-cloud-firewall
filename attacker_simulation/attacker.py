@@ -1,0 +1,1 @@
+print('Attacker simulation logs generated')

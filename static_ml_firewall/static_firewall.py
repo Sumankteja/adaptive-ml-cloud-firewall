@@ -1,0 +1,1 @@
+print('Static ML firewall active')
