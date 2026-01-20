@@ -16,3 +16,22 @@ Full Phase-1 + Phase-2 implementation using real ML models and benchmark dataset
 pip install -r requirements.txt
 python train_and_run.py
 python results.py
+
+## How to Run the Project
+
+1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Train and run the firewall
+python train_and_run.py
+
+4. View results
+python results.py
+
+
+
